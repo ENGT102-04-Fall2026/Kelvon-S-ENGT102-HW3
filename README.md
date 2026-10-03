@@ -42,3 +42,15 @@ Function Display_results(matching_trails, estimated_times)
     END MAIN PROGRAM
 
     Testing Cases
+    Test 1
+- **Maximum hiking time:** 3.0
+- **Requested difficulty:** Moderate
+- **Expected matching trails:** Pine Ridge, Fern Hollow, Birch Run, Sunset Hill, North Fork
+- **Actual matching trails:** Pine Ridge, Fern Hollow, Birch Run, Sunset Hill, North Fork
+- **Result:** Pass
+- Test 2
+- **Maximum hiking time:** 1.0
+- **Requested difficulty:** Hard
+- **Expected matching trails:** None
+- **Actual matching trails:** None
+- **Result:** Pass
